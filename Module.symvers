@@ -1,0 +1,2 @@
+0xfcb8d62d	tcpproxy_register_filter	/nfs/IOX/sys/tcpproxy/tcpproxy	EXPORT_SYMBOL
+0x620f31f7	tcpproxy_sched	/nfs/IOX/sys/tcpproxy/tcpproxy	EXPORT_SYMBOL
